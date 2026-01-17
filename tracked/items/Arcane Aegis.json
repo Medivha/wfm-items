@@ -16,7 +16,7 @@
         "en": {
             "item_name": "Arcane Aegis",
             "description": "On Shield Damaged:\n3% chance for +30% Shield Recharge for 12s\n+1 Arcane Revive\n+1 Arcane Revive",
-            "wiki_link": "https://wiki.warframe.com/w/Arcane",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Aegis",
             "icon": "items/images/en/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.png",
             "thumb": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png"
         },
@@ -93,7 +93,7 @@
         "uk": {
             "item_name": "Містична Еґіда",
             "description": "У разі пошкодження щитів:\n3 % імовірності на 12 с отримати: +30 % до швидкості відновлення щитів.\n+1 містичне відродження.\n+1 містичне відродження.",
-            "wiki_link": "https://wiki.warframe.com/w/Arcane",
+            "wiki_link": "https://wiki.warframe.com/w/Arcane_Aegis",
             "icon": "items/images/en/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.png",
             "thumb": "items/images/en/thumbs/arcane_aegis.05226d37b29123fba267f5f131a9dcd8.128x128.png"
         }

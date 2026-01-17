@@ -17,7 +17,7 @@
         "en": {
             "item_name": "Prism Guard",
             "description": "Prism Augment: Prism follows above Mirage. Duration changed to 4s.",
-            "wiki_link": "https://wiki.warframe.com/w/Prism",
+            "wiki_link": "https://wiki.warframe.com/w/Prism_Guard",
             "icon": "items/images/en/prism_guard.739b3605765381236dc43f5697692fc1.png",
             "thumb": "items/images/en/thumbs/prism_guard.739b3605765381236dc43f5697692fc1.128x128.png"
         },
@@ -31,7 +31,7 @@
         "ko": {
             "item_name": "프리즘 가드",
             "description": "프리즘 개조: 프리즘이 미라지 위를 따라다닙니다. 지속 시간이 4초로 변경됩니다.",
-            "wiki_link": "https://wiki.warframe.com/w/Prism",
+            "wiki_link": "https://wiki.warframe.com/w/Prism_Guard",
             "icon": "items/images/en/prism_guard.739b3605765381236dc43f5697692fc1.png",
             "thumb": "items/images/en/thumbs/prism_guard.739b3605765381236dc43f5697692fc1.128x128.png"
         },
@@ -94,7 +94,7 @@
         "uk": {
             "item_name": "Призмовий Вартовий",
             "description": "Розширення здібності «Призма»: призма слідує за Міраж. Тривалість дії змінено на 4 с.",
-            "wiki_link": "https://wiki.warframe.com/w/Prism",
+            "wiki_link": "https://wiki.warframe.com/w/Prism_Guard",
             "icon": "items/images/en/prism_guard.739b3605765381236dc43f5697692fc1.png",
             "thumb": "items/images/en/thumbs/prism_guard.739b3605765381236dc43f5697692fc1.128x128.png"
         }

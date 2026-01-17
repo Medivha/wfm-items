@@ -20,7 +20,7 @@
         "en": {
             "item_name": "Link Vitality",
             "description": "Increase Health by +125% of Warframe's Max Health",
-            "wiki_link": "https://wiki.warframe.com/w/Vitality",
+            "wiki_link": "https://wiki.warframe.com/w/Link_Vitality",
             "icon": "items/images/en/link_health.a7011e17699c06f369132a947d66e5fe.png",
             "thumb": "items/images/en/thumbs/link_health.a7011e17699c06f369132a947d66e5fe.128x128.png"
         },
@@ -34,7 +34,7 @@
         "ko": {
             "item_name": "링크 바이탈리티",
             "description": "워프레임 최대 체력의 +125% 만큼 체력 증가",
-            "wiki_link": "https://wiki.warframe.com/w/Vitality",
+            "wiki_link": "https://wiki.warframe.com/w/Link_Vitality",
             "icon": "items/images/en/link_health.a7011e17699c06f369132a947d66e5fe.png",
             "thumb": "items/images/en/thumbs/link_health.a7011e17699c06f369132a947d66e5fe.128x128.png"
         },
@@ -97,7 +97,7 @@
         "uk": {
             "item_name": "Зв’язок Життєвості",
             "description": "Збільшує здоров’я на +125% від максимального рівня здоров’я ворфрейма",
-            "wiki_link": "https://wiki.warframe.com/w/Vitality",
+            "wiki_link": "https://wiki.warframe.com/w/Link_Vitality",
             "icon": "items/images/en/link_health.a7011e17699c06f369132a947d66e5fe.png",
             "thumb": "items/images/en/thumbs/link_health.a7011e17699c06f369132a947d66e5fe.128x128.png"
         }
